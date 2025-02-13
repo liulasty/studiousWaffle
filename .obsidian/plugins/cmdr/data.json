@@ -38,6 +38,18 @@
       "icon": "box",
       "name": "保存当前文件",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:view-history-on-github",
+      "icon": "book-open",
+      "name": "Git: Open file history on GitHub",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:commit-specified-message",
+      "icon": "arrow-up-right",
+      "name": "Git: Commit all changes with specific message",
+      "mode": "any"
     }
   ],
   "pageHeader": [],
