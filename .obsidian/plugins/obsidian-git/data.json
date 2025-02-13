@@ -25,7 +25,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "https://github.com/liulasty/studious-waffle.git",
+  "gitDir": "https://github.com/liulasty/studiousWaffle.git",
   "showFileMenu": true,
   "authorInHistoryView": "full",
   "dateInHistoryView": false,
