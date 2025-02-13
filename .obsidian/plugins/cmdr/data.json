@@ -1,0 +1,61 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-up-right",
+      "name": "Git: Pull",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "arrow-up-right",
+      "name": "Git: Push",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:fetch",
+      "icon": "arrow-down-right",
+      "name": "Git: fetch",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "icon": "box",
+      "name": "Git: Commit all changes",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "editor:save-file",
+      "icon": "box",
+      "name": "保存当前文件",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
