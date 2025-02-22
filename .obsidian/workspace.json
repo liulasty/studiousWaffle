@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "git/常用的Git基础命令.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "常用的Git基础命令"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "git/常用的Git基础命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "常用的Git基础命令 的大纲"
             }
           }
         ],
@@ -171,20 +171,21 @@
   },
   "active": "13ec3ff45aca1fa8",
   "lastOpenFiles": [
-    "目录.md",
+    "git/配置多个账号.md",
+    "elasticsearch/1.常见问题.md",
+    "docker/常用命令.md",
     "README.md",
+    "目录.md",
     "MongoDB/常见问题.md",
     "Linux/进程占用.md",
     "Linux/1.常见面试问题.md",
     "docker/镜像与容器.md",
     "docker/基础概念.md",
     "docker/常见面试问题.md",
-    "docker/常用命令.md",
     "assters/TCP的详细介绍.md",
     "assters/TCP.md",
     "MongoDB",
     "webpack/webpack介绍.md",
-    "elasticsearch/1.常见问题.md",
     "Servlet/过滤器和拦截器.md",
     "Spring/1.常见问题.md",
     "Spring/@Qualifier注解解决当存在多个相同类型的 Bean 时，Spring 容器不知道如何自动装配的问题.md",
@@ -197,7 +198,6 @@
     "springboot/Representational State Transfer（REST）.md",
     "java基础知识/java中的常用集合以及实现.md",
     "springboot/什么是Bean.md",
-    "springboot/通用CRUD.md",
     "-main/笔记",
     "-main/webpack",
     "-main",
